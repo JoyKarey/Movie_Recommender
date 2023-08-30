@@ -14,6 +14,8 @@ GROUP 9 MEMBERS:
  - [Modelling](#Modelling)
  - [Results and Conclusion](#Results-and-Conclusion)
  - [Recommendations](#Recommendations)
+ 
+ ![Movie Time](Recommendation.png)
 
 # Business Understanding
 In the dynamic landscape of the entertainment industry, user engagement is paramount for platforms like ours. To effectively address user engagement, we must delve into the intricacies that shape it. By delving into users' historical interactions and preferences, we unearth valuable insights into their viewing habits, favored genres, and preferred content consumption times. Armed with this intelligence, 
